@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ideaspad
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning DOTS
+- 💞️ I’m looking to collaborate on gamedev with someone
+- 📫 reach me (https://t.me/masterLLL)
